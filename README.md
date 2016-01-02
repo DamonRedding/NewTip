@@ -44,3 +44,4 @@ Describe any challenges encountered while building the app.
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
+<iframe src="//giphy.com/embed/FlsLbfwI9O1Nu" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/kanye-west-vma-FlsLbfwI9O1Nu">via GIPHY</a></p>
