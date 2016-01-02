@@ -36,10 +36,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+The error "ERROR:LINKER COMMAND FAILED WITH EXIT CODE 1," appeared after following github tutorials. I believe that there was something I did in my terminal that made the file "to small." I searched the internet for solutions to my problem but it seems that I have discovered a popular error that has yet to be solved. I also speculate that the error could be due  to the fact that I am running XCode 6.3.2 instead of XCode 7 which is not due insuffucient storage size but yet another error in xcode that would prohibit me from installing the updated application. It would successfully download, but when installing would hit a cap of "7 minutes left" then restart.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [Damon Redding]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
